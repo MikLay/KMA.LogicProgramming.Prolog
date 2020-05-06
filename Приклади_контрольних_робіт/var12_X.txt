@@ -1,0 +1,78 @@
+﻿Завдання № 1 (5 бали)
+Скільки існує щасливих шестизначних білетів, таких, що сума перших трьох цифр рівна сумі трьох останніх. Семизначна система числення.
+Скількома способами можна розміняти одну гривню монетами номіналом 1, 2 та 5 копійок.
+
+
+Завдання №2 (5 балів)
+Розв’яжіть арифметичний ребус.
+WWW+DOWN=ERROR
+Kuhi*9=Xahi
+
+
+Завдання №3(5 бали)
+Описати через правила задані родинні відносини.
+Правила: 
+		son(X), (син)
+		sister(X), (сестра)
+		granny(X), (бабуся)
+		uncle(X), (дядько, брат - мами, батька)
+		brotherinLaw(X), (чоловік сестри)
+		nephew(X)(племінник, дитина брата або сестри)
+
+female(agnes).
+female(idit).
+female(margo).
+female(lussi).
+female(sally).
+female(holly).
+female(gulia).
+female(dori).
+female(dayni).
+female(matulda).
+female(hortenzia).
+female(depla).
+
+	married(чоловік, дружина).
+		married(mcqueen, sally).
+		married(gry, lussi).
+		married(mater, holly).
+		married(ramone, flo).
+		married(mayk, selia).
+ 
+	parents(дитина, батьки).
+		parents(margo, gry).
+		parents(idit,gry).
+		parents(agnes,lussi).
+		parents(gry,gulia).
+		parents(dru, gulia).
+		parents(gulia, ghost).
+		parents(nafario, ghost).
+		parents(lussi, baltazar).
+		parents(rom, baltazar).
+		parents(kevin,rom ).
+		parents(idit,rom ).
+		parents(sally, ramon ).
+		parents(ramon, doluvay).
+		parents(luidgy, doluvay).
+		parents(gvido,luidgy).
+		parents(mcqueen, doc).
+		parents(sally, flo).
+		parents(carera, flo).
+		parents(holly,carera).
+		parents(dori, sally).
+		parents(mac, sally).
+		parents(donald, dak).
+		parents(dayni, dak).
+		parents(matulda, dayni).
+		parents(donald, hortenzia).
+		parents(depla,hortenzia).
+		parents(huey, matulda).
+		parents(dewey, matulda).
+		parents(louie, matulda).
+		parents(mayk, wazowski).
+		parents(selia, vantuz).
+		parents(wazowski, chak).
+		parents(duck, chak).
+
+Завдання №4 (1 бали)
+Піднесення до степеня.
