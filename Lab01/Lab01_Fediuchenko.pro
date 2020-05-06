@@ -51,3 +51,4 @@ planet_attandance(PlName, Pname):- planet(PLid, PlName),passanger(Pid,_,Pname,_)
 
 %5)Знайти прізвища усіх пасажирів - Pname, шатлу з іменем - Sname, що перевіз/перевезе хз на планету під назвою - PlName
 find_passanger(Pname, Sname, PlName):-planet(PLid, PlName), shutle(Sid, Sname,_),passanger(Pid,_,Pname,_),journey(_,Sid,PLid,Pid,_).  
+
